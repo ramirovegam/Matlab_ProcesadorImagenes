@@ -39,7 +39,5 @@ La aplicación cuenta con una interfaz intuitiva dividida en pestañas, cada una
 
 Puedes ver una vista previa de la aplicación a continuación:
 <img width="1289" height="938" alt="image" src="https://github.com/user-attachments/assets/0231a507-07dc-47c6-b16a-658d56224f06" />
-![imagen de cambio color ojos](https://github.com/user-attachments/assets/bcb64dcf-facd-47ee-bf82-3a1d4949f4d9)
-![WhatsApp Image 2025-11-11 at 20 14 06_5fe13a87](https://github.com/user-attachments/assets/c9916e64-53a7-411c-a62a-fd65391d9957)
 
 
