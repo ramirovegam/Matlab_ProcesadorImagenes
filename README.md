@@ -39,3 +39,5 @@ La aplicación cuenta con una interfaz intuitiva dividida en pestañas, cada una
 
 Puedes ver una vista previa de la aplicación a continuación:
 <img width="1289" height="938" alt="image" src="https://github.com/user-attachments/assets/0231a507-07dc-47c6-b16a-658d56224f06" />
+
+
